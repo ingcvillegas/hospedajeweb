@@ -11,11 +11,11 @@
 </div>
 
 <div class="whmcscontainer">
-    <div class="footer">
-        <div id="copyright">Copyright &copy; 2011 {$companyname}. All Rights Reserved.</div>
-        {if $langchange}<div id="languagechooser">{$setlanguage}</div>{/if}
-        <div class="clear"></div>
+    <div id="copyright">
+    	<div><p>Copyright &copy; 2012 {$companyname}. All Rights Reserved.</p></div>
+    	{if $langchange}<div id="languagechooser">{$setlanguage}</div>{/if}
     </div>
+    <div class="clear"></div>
 </div>
 
 {$footeroutput}
