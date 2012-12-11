@@ -1,0 +1,248 @@
+*{	margin: 0; padding: 0; border: none; }
+body{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	background: #f1f5f3;
+}
+.container{
+	width: 960px;
+	margin: 0 auto;
+}
+.clear{
+	clear: both;
+}
+/*Header*/
+#header{
+	background: #1b1b1b;
+	padding: 5px;
+}
+#header img{
+	float: left;
+	margin: 10px;
+}
+#header ul li{
+	display: inline-block;
+}
+#header #header_links{
+	width: 620px;
+	float: left;
+	padding: 0;
+}
+#header #contact{
+	margin: 16px 0 0 0;
+	font-size: 13px;
+}
+#header #nav{
+	margin: 27px 0 -22px 20px;
+}
+#header ul li a{
+	text-decoration: none;
+}
+#header #contact ul li a, #header #contact ul li{
+	color: #979797;
+}
+#header #contact ul li{
+	padding: 5px 7px;
+	background: #2a2626;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+}
+#header #contact ul li:hover{
+	background: #454545;
+}
+#header #contact ul li span{
+	display: inline-block;
+	width: 16px;
+	height: 16px;
+	margin: 3px 3px -3px 0;
+}
+#header #contact ul li span#chat{
+	background: url(../images/nav-chat.png) no-repeat;
+}
+#header #contact ul li span#login{
+	background: url(../images/nav-login.png) no-repeat;
+}
+#header #contact ul li span#phone{
+	background: url(../images/nav-phone.png) no-repeat;
+}
+#header #contact ul li span#mail{
+	background: url(../images/nav-mail.png) no-repeat;
+}
+#header #nav ul li{
+	padding: 5px 20px;
+	-webkit-border-radius: 5px 5px 0px 0px;
+    border-radius: 5px 5px 0px 0px;
+    text-shadow: 1px 1px 1px #323232;
+	font-size: 16px;
+	background: #494949; /* Old browsers */
+	background: -moz-linear-gradient(top,  #494949 0%, #3a3a3a 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#494949), color-stop(100%,#3a3a3a)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #494949 0%,#3a3a3a 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #494949 0%,#3a3a3a 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #494949 0%,#3a3a3a 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #494949 0%,#3a3a3a 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#494949', endColorstr='#3a3a3a',GradientType=0 ); /* IE6-9 */
+}
+#header #nav ul li:hover, #header #nav ul li.menu_activo{
+	background: #58ab27; /* Old browsers */
+background: -moz-linear-gradient(top,  #58ab27 0%, #71d934 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#58ab27), color-stop(100%,#71d934)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #58ab27 0%,#71d934 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #58ab27 0%,#71d934 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #58ab27 0%,#71d934 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #58ab27 0%,#71d934 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#58ab27', endColorstr='#71d934',GradientType=0 ); /* IE6-9 */
+
+}
+#header #nav ul li a{
+	color: #ffffff;
+}
+/*Content*/
+#content{
+	min-height: 350px;
+	padding: 10px 5px;
+}
+
+
+
+
+
+/*Footer*/
+#footer{
+	background: #333;
+	padding: 10px;
+	border-bottom: 1px solid #565656;
+}
+#footer .container div{
+	width: 210px;
+	float: left;
+	padding: 5px;
+	margin: 10px 10px;
+}
+#footer h4{
+	color: #FFF;
+	font-size: 16px;
+	padding: 7px;
+	border-bottom: 1px solid #202020;
+}
+#footer ul li{
+	margin-left: 20px;
+}
+#footer ul li a{
+	color: #777;
+	text-decoration: none;
+	text-shadow: 1px 1px 1px #121212;
+	line-height: 24px;
+}
+#footer ul li a:hover{
+	color: #ff6e1e;	
+}
+#footer ul li{
+	list-style-image: url(../images/sitemap.png);
+	list-style-position: outside;
+}
+#footer #add-these-features ul li, #footer #social-media ul li{
+	list-style-type: none;
+	list-style-image: none;
+}
+#footer #add-these-features ul li a span, #footer #social-media ul li a span{
+	display: inline-block;
+	width: 22px;
+	height: 22px;
+	margin: 10px 6px -6px -15px;
+}
+#footer #add-these-features ul li a #support-team{
+	background: url(../images/add-these-features/support-team.png) no-repeat;
+}
+#footer #add-these-features ul li a #free-site-migration{
+	background: url(../images/add-these-features/free-site-migration.png) no-repeat;
+}
+#footer #add-these-features ul li a #free-ssl-certificate{
+	background: url(../images/add-these-features/free-ssl-certificate.png) no-repeat;
+}
+#footer #add-these-features ul li a #monthly-data-transfer{
+	background: url(../images/add-these-features/monthly-data-transfer.png) no-repeat;
+}
+#footer #add-these-features ul li a #no-setup-fees{
+	background: url(../images/add-these-features/no-setup-fees.png) no-repeat;
+}
+#footer #add-these-features ul li a #pop-imap-support{
+	background: url(../images/add-these-features/pop-imap-support.png) no-repeat;
+}
+#footer #add-these-features ul li a #private-name-servers{
+	background: url(../images/add-these-features/private-name-servers.png) no-repeat;
+}
+#footer #add-these-features ul li a #virus-protection{
+	background: url(../images/add-these-features/virus-protection.png) no-repeat;
+}
+#footer #social-media ul li a #blog-sm{
+	background: url(../images/social-media/blog-sm.png) no-repeat;
+}
+#footer #social-media ul li a #facebook-sm{
+	background: url(../images/social-media/facebook-sm.png) no-repeat;
+}
+#footer #social-media ul li a #rss-sm{
+	background: url(../images/social-media/rss-sm.png) no-repeat;
+}
+#footer #social-media ul li a #twitter-sm{
+	background: url(../images/social-media/twitter-sm.png) no-repeat;
+}
+#footer #newsletter input{
+	padding: 5px;
+	margin: 5px;
+	width: 180px;
+	color: #777;
+	background: #2a2a2a;
+	border: 1px solid #777;
+	-webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+#footer #newsletter input:first-child{
+	margin-top: 10px;
+}
+#footer #newsletter input[type="submit"]{
+	width: 100px;
+	margin-left: 96px;
+	color: #fff;
+	font-size: 16px;
+	padding: 3px 5px;
+	border: 1px solid #ff6e1e;
+	background: #ff8824; /* Old browsers */
+	background: -moz-linear-gradient(top,  #ff8824 0%, #ff6e1e 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ff8824), color-stop(100%,#ff6e1e)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #ff8824 0%,#ff6e1e 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #ff8824 0%,#ff6e1e 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #ff8824 0%,#ff6e1e 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #ff8824 0%,#ff6e1e 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff8824', endColorstr='#ff6e1e',GradientType=0 ); /* IE6-9 */
+}
+#footer #newsletter input[type="submit"]{
+	border: 1px solid #71d934;
+	background: #58ab27; /* Old browsers */
+background: -moz-linear-gradient(top,  #58ab27 0%, #71d934 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#58ab27), color-stop(100%,#71d934)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #58ab27 0%,#71d934 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #58ab27 0%,#71d934 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #58ab27 0%,#71d934 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #58ab27 0%,#71d934 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#58ab27', endColorstr='#71d934',GradientType=0 ); /* IE6-9 */	
+}
+#footer #newsletter input[type="submit"]:hover{
+	border-color: #494949;
+	background: #494949; /* Old browsers */
+	background: -moz-linear-gradient(top,  #494949 0%, #3a3a3a 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#494949), color-stop(100%,#3a3a3a)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #494949 0%,#3a3a3a 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #494949 0%,#3a3a3a 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #494949 0%,#3a3a3a 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #494949 0%,#3a3a3a 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#494949', endColorstr='#3a3a3a',GradientType=0 ); /* IE6-9 */
+}
+#copyright{
+	background: #1b1b1b;
+	color: #777;
+	font-size: 14px;
+	line-height: 20px;
+	padding: 10px;
+}
+

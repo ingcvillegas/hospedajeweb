@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<install version="1.5" type="template"> 
+<name>Hospedaje Web</name>
+<creationDate>25/11/2012</creationDate>
+<author>Omar Terrazas</author>
+<authorEmail>terrazas.omar@gmail.com</authorEmail>
+<authorUrl></authorUrl>
+<copyright>Copyright (C) 2012 All rights reserved.</copyright>
+<version>1.0.0</version>
+<description>Joomla Theme Specific for hospedajeweb.com</description>
+<files>
+	<!-- <folder>files</folder>
+	<folder>images</folder> -->
+	<filename>index.php</filename>
+	<filename>templateDetails.xml</filename>
+	<filename>css/hw-default.css</filename>	
+</files>
+<positions>
+<position>left</position>
+<position>right</position>
+<position>top</position>
+</positions>
+</install>

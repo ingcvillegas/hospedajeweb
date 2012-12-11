@@ -1,0 +1,430 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"con",
+				"content"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"a",
+				"ajax"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"get",
+				"getScript"
+			],
+			[
+				"lo",
+				"loginScreen"
+			],
+			[
+				"login",
+				"login_screen"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"res",
+				"respuestasMostrar"
+			],
+			[
+				"opciones",
+				"opcionesMostrar"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"di",
+				"display"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/hw/templates/hospedajeweb/main/view/soporte/principal_view.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/hw/templates/hospedajeweb/main/model/main_model.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/hw/templates/hospedajeweb/main/controller/main.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/hw/templates/hospedajeweb/main/controller/planes.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/hw/templates/hospedajeweb/main/controller/acerca-de.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/hw/templates/hospedajeweb/main/controller/soporte.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/hw/templates/hospedajeweb/main/controller/servicios.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/hw/templates/hospedajeweb/main/controller/blog.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/hw/templates/hospedajeweb/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/hw/templates/hospedajeweb/main/controller/inicio.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/hw/templates/hospedajeweb/main/model/inicio_model.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/hw/templates/hospedajeweb/main/view/inicio/complemento_view.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/hw/templates/hospedajeweb/main/model/db_conection.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/hw/templates/hospedajeweb/main/controller/articulo.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/hw/templates/hw-theme/templateDetails.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/hw/templates/hw-theme/index.php",
+		"/Users/terrazas_omar/Downloads/demo.squidix.com/liveweb/index.html",
+		"/private/var/folders/pm/2_7tr0992vn9_005m2ndy7v00000gn/T/cc5fae60-749a-43ef-84fc-537b5453d8a7/opt/lampp/htdocs/noticias-y-avisos.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/hw/htaccess.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/contenido_4_2/js/mapa.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/contenido_4_2/js/mapa.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/contenido_4_2/index.html",
+		"/private/var/folders/pm/2_7tr0992vn9_005m2ndy7v00000gn/T/dc9c3b28-4b7b-406e-a725-5371fa3b8bd7/usr/local/lib/php.ini",
+		"/private/var/folders/pm/2_7tr0992vn9_005m2ndy7v00000gn/T/dc9c3b28-4b7b-406e-a725-5371fa3b8bd7/home/hw/public_html/.htaccess",
+		"/private/var/folders/pm/2_7tr0992vn9_005m2ndy7v00000gn/T/547395c6-95ce-475a-b963-bcfdb0ed7983/home/hw/public_html/.htaccess",
+		"/private/var/folders/pm/2_7tr0992vn9_005m2ndy7v00000gn/T/547395c6-95ce-475a-b963-bcfdb0ed7983/home/hw/public_html/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/se-ico/application/controllers/welcome.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ico2cero/css/default.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/ico2cero/application/config/routes.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ico2cero/application/config/config.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ico2cero/application/config/autoload.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/se-ico/application/views/desk/welcome_screen_view.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/se-ico/application/views/record/new_record_view.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/se-ico/application/views/login_view.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/se-ico/application/models/access_model.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/se-ico/application/controllers/access.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/se-ico/js/new_record.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/se-ico/js/welcome.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/se-ico/application/controllers/record.php",
+		"/private/var/folders/pm/2_7tr0992vn9_005m2ndy7v00000gn/T/a8c4b6a2-12a2-4812-9dbc-f9113e44e9ae/public_html/wp-content/themes/dressup/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/se-ico/application/views/new_record_view.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/se-ico/application/config/config.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/se-ico/application/hooks/hook.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/se-ico/application/config/hooks.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/se-ico/application/config/autoload.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/se-ico/.htaccess",
+		"/Applications/XAMPP/xamppfiles/htdocs/si-ico/application/views/desk/welcome_screen_view.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/si-ico/application/views/login_view.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/si-ico/js/welcome.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/si-ico/application/controllers/access.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/si-ico/application/config/autoload.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/si-ico/application/config/config.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/si-ico/application/views/desk/no_welcome_screen_view.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/si-ico/application/views/first_screen_view.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/si-ico/application/controllers/welcome.php",
+		"/Users/terrazas_omar/Dropbox/Public/diplomado/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/si-ico/application/views/welcome_screen_view.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/si-ico/css/default.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/si-ico/application/views/base/header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/si-ico/application/config/database.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/si-ico/application/config/migration.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ingenieria/formas-titulacion/tesis.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ingenieria/alumnos/plan-vigente.html",
+		"/private/var/folders/pm/2_7tr0992vn9_005m2ndy7v00000gn/T/95e351e2-712b-4108-8a66-36217d72f4ff/info/jeuxdevoiture/add_post/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/news/add_post/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/apiphp/Example.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ingenieria/alumnos.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ingenieria/estructura.php",
+		"/private/var/folders/pm/2_7tr0992vn9_005m2ndy7v00000gn/T/cc5fae60-749a-43ef-84fc-537b5453d8a7/opt/lampp/htdocs/css/estilo-principal.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/ingenieria/plan-estudios.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ingenieria/quienes-somos.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ingenieria/nosotros/perfil-de-ingreso.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ingenieria/quienes-somos/mision.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ingenieria/egresados/formularios.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ingenieria/egresados/estadisticas-form.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ingenieria/egresados/contenido.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/genera-wp/noticias.sql",
+		"/Applications/XAMPP/xamppfiles/htdocs/egresados/el-js.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/egresados/el-php",
+		"/Applications/XAMPP/xamppfiles/htdocs/cuentas/js/mapa.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/egresados/application/controllers/nuevo/registro.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ingenieria/noticias-y-avisos/semana-ingenieria-2012.php",
+		"/private/var/folders/pm/2_7tr0992vn9_005m2ndy7v00000gn/T/9d73d0b2-fa8f-4b17-a423-ba4f38f8b03b/node-v0.8.12/main.js",
+		"/Users/terrazas_omar/Documents/jeux/wp-content/themes/dressup/loop_home.php",
+		"/Users/terrazas_omar/Documents/jeux/wp-content/plugins/wp-postratings/wp-postratings.php",
+		"/Users/terrazas_omar/Documents/jeux/wp-includes/option.php",
+		"/Users/terrazas_omar/Documents/jeux/wp-admin/includes/screen.php",
+		"/Users/terrazas_omar/Documents/jeux/wp-content/themes/dressup/loop-single.php",
+		"/Users/terrazas_omar/Documents/jeux/wp-content/plugins/wp-postratings/postratings-options.php",
+		"/Users/terrazas_omar/Documents/jeux/wp-content/plugins/wp-postratings/postratings-templates.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ingenieria/formas-titulacion/cursos-diplomados.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ingenieria/noticias-y-avisos.php",
+		"/private/var/folders/pm/2_7tr0992vn9_005m2ndy7v00000gn/T/cc5fae60-749a-43ef-84fc-537b5453d8a7/opt/lampp/htdocs/estructura.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dressup/loop-single.php",
+		"/Users/terrazas_omar/Downloads/apiphp/Example.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dressup/sidebar.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dressup/loop-page.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dressup/home.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dressup/loop.php",
+		"/private/var/folders/pm/2_7tr0992vn9_005m2ndy7v00000gn/T/a8c4b6a2-12a2-4812-9dbc-f9113e44e9ae/www/wp-content/themes/dressup/home.php",
+		"/private/var/folders/pm/2_7tr0992vn9_005m2ndy7v00000gn/T/a8c4b6a2-12a2-4812-9dbc-f9113e44e9ae/www/wp-content/themes/dressup/loop_home.php",
+		"/Users/terrazas_omar/Downloads/jquery.filedrag.fileTypes.js",
+		"/Users/terrazas_omar/Downloads/voiture_jeux (1).sql",
+		"/Applications/XAMPP/xamppfiles/htdocs/pro/dressup/loop_home.php",
+		"/private/var/folders/pm/2_7tr0992vn9_005m2ndy7v00000gn/T/9d73d0b2-fa8f-4b17-a423-ba4f38f8b03b/var/www/wordpress/wp-content/themes/dressup/loop-single.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dressup/loop_home.php",
+		"/private/var/folders/pm/2_7tr0992vn9_005m2ndy7v00000gn/T/9d73d0b2-fa8f-4b17-a423-ba4f38f8b03b/var/www/wordpress/index.php",
+		"/private/var/folders/pm/2_7tr0992vn9_005m2ndy7v00000gn/T/9d73d0b2-fa8f-4b17-a423-ba4f38f8b03b/var/www/wordpress/wp-settings.php",
+		"/private/var/folders/pm/2_7tr0992vn9_005m2ndy7v00000gn/T/a8c4b6a2-12a2-4812-9dbc-f9113e44e9ae/www/wp-content/themes/dressup/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/pro/dressup/home.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/pro/dressup/loop-page.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/pro/dressup/loop-single.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/si-ico/application/controllers/alumnos.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/si-ico/application/controllers/manager.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/si-ico/application/views/include/manager.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/si-ico/js/core.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/ico/nuevo-ingreso/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/si-ico/application/config/routes.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/si-ico/.htaccess",
+		"/Applications/XAMPP/xamppfiles/htdocs/si-ico/application/controllers/inicio.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ico/formas-titulacion/formas.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ico/formas-titulacion/estructura-formas.php",
+		"/private/var/folders/pm/2_7tr0992vn9_005m2ndy7v00000gn/T/cc5fae60-749a-43ef-84fc-537b5453d8a7/opt/lampp/htdocs/formas-titulacion/tesis.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ico/formas-titulacion/registro-forma-trabajo.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ico/formas-titulacion/registro-forma-examen.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ico/formas-titulacion/tesis.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ico/formas-titulacion/ejercicio-profesional.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ico/formas-titulacion/examen-general.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Applications/XAMPP/xamppfiles/htdocs/pro/dressup",
+			"/Users/terrazas_omar/Documents/jeux",
+			"/Users/terrazas_omar/Documents/jeux/wp-content/plugins/wp-postratings",
+			"/Users/terrazas_omar/Documents/jeux/wp-content",
+			"/Users/terrazas_omar/Documents/jeux/wp-content/plugins",
+			"/Users/terrazas_omar/Documents/jeux/wp-content/themes/dressup",
+			"/Users/terrazas_omar/Documents/jeux/wp-content/plugins/wp-postratings",
+			"/Users/terrazas_omar/Documents/jeux/wp-content/themes/dressup",
+			"/Users/terrazas_omar/Documents/jeux/wp-content/plugins/wp-postratings",
+			"/Users/terrazas_omar/Documents/jeux/wp-content/plugins",
+			"/Users/terrazas_omar/Documents/jeux/wp-content/themes/dressup",
+			"/Users/terrazas_omar/Documents/jeux/wp-content/plugins/wp-postratings",
+			"/Users/terrazas_omar/Documents/jeux",
+			"/Applications/XAMPP/xamppfiles/htdocs/dressup",
+			"/Users/terrazas_omar/Documents/jeux/wp-content/themes/dressup",
+			"/Users/terrazas_omar/Documents/jeux",
+			"/Applications/XAMPP/xamppfiles/htdocs/pro/dressup"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Electronico",
+			"Email",
+			"Name",
+			"sectionId",
+			"hw_",
+			"NULL",
+			"hw_",
+			"(",
+			"primary",
+			"xoxo",
+			"id=\"primary\"",
+			"xoxo",
+			"alt_page_navigation",
+			"correo_unam",
+			"date",
+			"select",
+			"content",
+			"<p></p>",
+			"</li>",
+			"</span>",
+			"tratamiento_de_la_informacion",
+			"interaccion_humano_maquina",
+			"</span><span>",
+			"<div><p class=\"vertical\">",
+			"></",
+			"tr",
+			"respuesta",
+			"data",
+			"ratings_texts",
+			"function get_option",
+			"get_option",
+			"the_ratings",
+			"votes",
+			"the_ratings_home",
+			"ratings_average",
+			"the_ratings_results",
+			"<strong>",
+			"out of",
+			"(<strong>",
+			"expand_ratings_template",
+			"the_ratings_results(",
+			"strong",
+			"•	",
+			"á",
+			"ó",
+			"í",
+			"plan",
+			"get_option",
+			"expand_ratings_template",
+			"the_ratings_results",
+			"class=\"post-ratings\"",
+			"<br>",
+			"<strong>",
+			"> ( <strong>",
+			">(<strong>",
+			"votes",
+			"votes, average:",
+			"strong",
+			"post-ratings",
+			".post-ratings",
+			"the_ratings",
+			"post-ratings",
+			".post-ratings",
+			"class=\"post\"",
+			"class=\"clear\"",
+			"class=\"post\"",
+			"post",
+			"the_ratings_home",
+			"the_ratings_home()",
+			"importante",
+			"ó",
+			"tr",
+			"jeuxdevoiture.fr",
+			"http://www.jeuxdevoiture.fr",
+			"alt_page_navigation",
+			"the_ratings_for_related_games",
+			"the_ratings_for_related_games()",
+			"the_ratings_home",
+			"class=\"allresult\"",
+			"class=\"allresults\"",
+			"class=\"post\"",
+			".post",
+			"informe",
+			"resumen",
+			"html",
+			"div",
+			"span",
+			"layouts"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"the_ratings"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 218.0,
+	"status_bar_visible": true
+}
